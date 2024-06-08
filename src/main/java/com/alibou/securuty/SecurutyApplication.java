@@ -1,0 +1,13 @@
+package com.alibou.securuty;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SecurutyApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SecurutyApplication.class, args);
+	}
+
+}
